@@ -1,0 +1,11 @@
+{
+  "name": "paperservice",
+  "version": "1.0.0",
+  "description": "servcies of papers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Achira De silva",
+  "license": "ISC"
+}
